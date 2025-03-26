@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nelfund-dashboard",
+  "private_key_id": "45c67b5cd987d792e63e5f43d2150dd39ab968aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCOY7gHIoqJuoN\n2+FY9e+X8nH76QtC+dGLDlQ+fHJu08k0lJSwq3ekwF6pZkQTMNQ4xcdsZ3GBI1dh\nqNkEdRbM7om8QJmxRwnVcbD4Cq8OYjl9rkX40fIICVRunNClfr5jOXjpkJvV3Dr9\n80kDguG/eM7pWMLHpSsXZTMm51fNMQ0+CmHbVok9BFtplzbB3DXvPO9N/8K1VfSy\nZyubobcrP+fpJIyQphs30qQf7oHipj9d1zfzkhQCu3n/+BbLPFUQZ7r6ZAr9SGp5\n2bXNCs6cVXdxW6L95tL+O9FYZYTZSb09SP2H7jlVvndKOm4vb7GiwAp6BazJoi8q\naQNAg7xdAgMBAAECggEAKJ7WGVwOr2stF1HtyufAwNQlb6yZPNw3rXAFQX5QhopH\nsfYDNQHfh3buNVqckTDsqaT/pNXroLkN/PBN1wdQCfM3nkYafr+fOGNLQk0luInl\ngToSC0yJZJHi9TFZ18rusZzjA2JJnUwukE8x7YiRgzSWfaohLpUGMqHpNVE8BT9I\nM6m425uQarp8H59NVuuqBwejqkH2n0bbr6VB9Tge1K6DWH+voLhwVWQ92hbITqSo\n5Hg+O0TGEbO/hN1bf1L4AHPOz0+EJw98sMnlYykD9iUzf8pEykuUCauC/PfDpg29\nrf05ql5o34g+ZZNAp6K8tCgx/F7362W3OIeDUFsRlwKBgQDnC03WRqmS7lG40xIc\n3oeL7aRmuSfKw/8ayj2B4g9tVIwjbD776jRQUPAqFYfiNSoIBopmIXkJj1Wv6dcK\nmGtcSqvVV5uRRXd1yx+ra32OhLK8/w7POcaanCNAf1GFaG3DIZcQdXPTan+zUDmC\n4W2PLEbtp0LshsUJIPO1h10ujwKBgQDXNCXnQIIKk3zubzJCQTimLuAxzwojTo7R\nfiIICUQRLPAmj99L5DysZU9JM+Y1yczysLcIkqkOELXYa0y8gi+c3O9IWjTcP6AZ\nx581FekfH7qt4Hjp1QWbtq80UjbUKOEP6z96a4VF6qBrxGgINbrbFu5wxsCKq1Uo\nPH1PS2ocUwKBgQCpEGiAp2xmi+VY7XqPjXZ6OgbW9B3eDdWacOrZI+ZOBlQVh5v/\nEr39F3zmDqNEL8r13HNhkJTVHgGBnAczRZ0qB6n9jwHTJ5XmqCAge6OAqjFwguL/\nWDOv5xkUlRW+HVBUPTwhWxDKX1/agpXS48obvjaYqJAcK/H6YBZ1evwAmQKBgQDX\nBDt6unEzr/j7Ig7NM+0t3VgTbBFtBWic17GY5ekkYAnx/X3Vjc0xUmfNdBVnWKF1\nOismXaKbcwa9nTemgUyhJf3OBJMcHFYSa+keWS368vDKGaW1vClGU1jqpdoyUEXO\nafWakyMtoCd4hVyMF2MC0/6Yn3xxEI6dDRMGzwrOEQKBgCHr+N0ou73OsbB2Z9jN\nX3MwSHrzCixaOvoiF+Lrj9JvMqOEQx1KYuas0BveWuofz6YuqtUyhZ6iaRbv6IfP\nixTDhE7BsXl2tRwevzYLMkgJoBxFiyO4jHUhHNEnFtoFbhlam7ZBvBMK+YRjOYfa\njZ1wiD6q+OGZvc9jhvTCfY0e\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-access@nelfund-dashboard.iam.gserviceaccount.com",
+  "client_id": "100079547536522620965",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-access%40nelfund-dashboard.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
